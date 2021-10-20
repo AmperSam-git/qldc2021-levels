@@ -1,0 +1,1 @@
+Rename it to smw.sfc to use with the patch_award_winners.bat script.
