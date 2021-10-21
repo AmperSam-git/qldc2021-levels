@@ -11,7 +11,6 @@ If you would like to use the script to patch only the award-winners, place your 
 
 ## Notes on Specific Levels
 
-
 |Entry|Notes|
 |---|---|
 |10|as included, it suffers a bug that will reset your progress after 255 attempts, savestates are recommended on emulator--they do not work on console.|
@@ -19,6 +18,5 @@ If you would like to use the script to patch only the award-winners, place your 
 |43|uses sample streaming to play Rednex "Cotton Eye Joe" (yes really), if this is concern to you as a content creator playing these levels it is advisable to |
 |68|is unavailable as it contained copyrighted material from Super Mario All-Stars|
 |76|requires mouse input to be enabled in your emulator or for a hardware mouse to be plugged into the second player slot on your console.|
-|79|as included, has a bug in one sublevel that potentially crashes some consoles additionally it cannot be completed as there is a door that is too small.|
 
 If you are a creator and would like to update your level patch, do reach out to me ([AmperSam](https://www.smwcentral.net/?p=profile&id=41223)) and I will do my best to include it here.
